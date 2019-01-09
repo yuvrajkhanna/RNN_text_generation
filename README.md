@@ -3,6 +3,8 @@
 **I am trying to generate new text by feeding text data to a single layered LSTM model using KERAS**
 
 
+
+**EXPLANATION**
 import needed libraries<br/>
 ![](images/1.png)
 
