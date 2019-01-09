@@ -1,5 +1,7 @@
 # RNN_text_generation
 
+**I am trying to generate new text by feeding text data to a single layered LSTM model using KERAS**
+
 
 import needed libraries<br/>
 ![](images/1.png)
